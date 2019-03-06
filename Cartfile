@@ -1,1 +1,1 @@
-github "https://github.com/PJCSpencer/ZIPFoundation.git" ~> 0.9 "development"
+github "PJCSpencer/ZIPFoundation.git" "development"
