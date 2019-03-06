@@ -1,1 +1,1 @@
-github "weichsel/ZIPFoundation" ~> 0.9
+github "https://github.com/PJCSpencer/ZIPFoundation.git" ~> 0.9 "development"
